@@ -14,7 +14,7 @@ const developer = {
 ```
 
 - 🚀 Building scalable web applications with modern tech stacks
-- 🌱 Deep diving into **React.js**, **Next.js**, and **AWS** architecture
+- 🌱 Deep diving into **React.js**, **Next.js**, **GCP** and **Cloudflare** architecture
 - 👯 Open to collaborating on innovative projects that challenge the status quo
 - 💬 Let's talk about TypeScript, JavaScript, Ruby, or Python - always eager to share knowledge!
 
@@ -53,7 +53,7 @@ const developer = {
 
 ## 🤝 Connect with Me
 
-[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=X&logoColor=white)](https://x.com/heyjosephme)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/heyjosephme)
 
 ## 📈 Activity Graph
 
