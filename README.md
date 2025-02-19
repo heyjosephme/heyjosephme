@@ -24,28 +24,21 @@ const developer = {
 
 #### Frontend Development
 
-[![Frontend Stack](https://skillicons.dev/icons?i=js,ts,react,astro)](https://skillicons.dev)
+[![Frontend Stack](https://skillicons.dev/icons?i=js,ts,react,nextjs,astro,tailwind,shadcn)](https://skillicons.dev)
 
 #### Backend Development
 
-[![Backend Stack](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
-
-#### Mobile Development
-
-[![Mobile Stack](https://skillicons.dev/icons?i=dart,flutter)](https://skillicons.dev)
+[![Backend Stack](https://skillicons.dev/icons?i=nodejs,express,nestjs,python)](https://skillicons.dev)
 
 #### Cloud & Infrastructure
 
-[![Cloud Stack](https://skillicons.dev/icons?i=firebase,aws,gcp,docker,kubernetes)](https://skillicons.dev)
+[![Cloud Stack](https://skillicons.dev/icons?i=aws,gcp,ubuntu,docker,kubernetes,sentry)](https://skillicons.dev)
 
-### 🌱 Currently Learning
-
-[![Learning Stack](https://skillicons.dev/icons?i=python,nextjs,nestjs)](https://skillicons.dev)
 
 ### 🎮 Hobby
 
-[![Hobby Stack](https://skillicons.dev/icons?i=ruby,rails,cloudflare,bun,linux,neovim)](https://skillicons.dev)
-[![Tools Stack](https://skillicons.dev/icons?i=obsidian,postgres,prisma,prometheus,supabase)](https://skillicons.dev)
+[![Hobby Stack](https://skillicons.dev/icons?i=ruby,rails,fastapi,cloudflare,workers,bun,linux,neovim)](https://skillicons.dev)
+[![Tools Stack](https://skillicons.dev/icons?i=obsidian,postgres,prisma,prometheus)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 
