@@ -4,17 +4,23 @@
 
 ```typescript
 const developer = {
-  role: "Full-stack Engineer",
-  code: ["Ruby", "TypeScript", "JavaScript", "Python"],
-  currentFocus: "Ruby on Rails, React.js/Next.js/React Native, GCP",
-  passions: ["Clean Code", "Scalable Architecture", "Problem Solving"],
+  role: "Full-Stack/Cloud Engineer",
+  code: ["Ruby", "TypeScript", "Python"],
+  currentFocus:
+    "Ruby on Rails, React.js/Remix/Next.js/React Native, AWS, CyberSecurity",
+  passions: [
+    "Clean Code",
+    "Scalable Architecture",
+    "Problem Solving",
+    "DevSecOps",
+  ],
   funFact:
     "I debug code like I debug life - with console.log and a lot of coffee ☕",
 };
 ```
 
 - 🚀 Building scalable web applications with Ruby on Rails and modern JavaScript frameworks
-- 🌱 Deep diving into **Ruby on Rails**, **React.js**, **Next.js**, **React Native** and **GCP** architecture
+- 🌱 Deep diving into **Ruby on Rails**, **React.js**, and **AWS** architecture
 - 👯 Open to collaborating on innovative projects that challenge the status quo
 - 💬 Let's talk about Ruby on Rails, React ecosystem, or cloud solutions - always eager to share knowledge!
 
@@ -28,19 +34,21 @@ const developer = {
 
 #### Frontend Development
 
-[![Frontend Stack](https://skillicons.dev/icons?i=react,astro,nextjs,ts,js,tailwind)](https://skillicons.dev)
+[![Frontend Stack](https://skillicons.dev/icons?i=react,astro,remix,nextjs,ts,js,html,css,tailwind)](https://skillicons.dev)
 
 #### Mobile Development
 
-[![Mobile Stack](https://skillicons.dev/icons?i=react)](https://reactnative.dev/)
+<!-- [![Mobile Stack](https://skillicons.dev/icons?i=react)](https://reactnative.dev/) -->
+
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 #### Cloud & Infrastructure
 
-[![Cloud Stack](https://skillicons.dev/icons?i=gcp,aws,debian,docker,kubernetes,sentry)](https://skillicons.dev)
+[![Cloud Stack](https://skillicons.dev/icons?i=aws,gcp,debian,docker,kubernetes,ansible,terraform,sentry)](https://skillicons.dev)
 
 ### 🎮 Other Technologies
 
-[![Other Stack](https://skillicons.dev/icons?i=nestjs,python,fastapi,cloudflare,workers,bun,linux,neovim)](https://skillicons.dev)
+[![Other Stack](https://skillicons.dev/icons?i=nestjs,python,cloudflare,workers,pnpm,bun,linux,neovim)](https://skillicons.dev)
 [![Tools Stack](https://skillicons.dev/icons?i=obsidian,prisma,prometheus)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
