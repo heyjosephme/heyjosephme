@@ -1,13 +1,13 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm [Joseph]
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Joseph
 
 ## 💫 About Me
 
 ```typescript
 const developer = {
   role: "Full-Stack/Cloud Engineer",
-  code: ["Ruby", "TypeScript", "Python"],
+  code: ["Ruby", "TypeScript"],
   currentFocus:
-    "Ruby on Rails, React.js/Remix/Next.js/React Native, AWS, CyberSecurity",
+    "Ruby on Rails, React.js/Remix/Next.js, React Native, CyberSecurity",
   passions: [
     "Clean Code",
     "Scalable Architecture",
@@ -20,7 +20,7 @@ const developer = {
 ```
 
 - 🚀 Building scalable web applications with Ruby on Rails and modern JavaScript frameworks
-- 🌱 Deep diving into **Ruby on Rails**, **React.js**, and **AWS** architecture
+- 🌱 Deep diving into **Ruby on Rails**, **React.js**, and **Modern** architecture
 - 👯 Open to collaborating on innovative projects that challenge the status quo
 - 💬 Let's talk about Ruby on Rails, React ecosystem, or cloud solutions - always eager to share knowledge!
 
@@ -30,7 +30,7 @@ const developer = {
 
 #### Backend Development
 
-[![Backend Stack](https://skillicons.dev/icons?i=ruby,rails,nodejs,express,postgres)](https://skillicons.dev)
+[![Backend Stack](https://skillicons.dev/icons?i=ruby,rails,nodejs,express,sqlite,postgres)](https://skillicons.dev)
 
 #### Frontend Development
 
@@ -48,12 +48,13 @@ const developer = {
 
 ### 🎮 Other Technologies
 
-[![Other Stack](https://skillicons.dev/icons?i=nestjs,python,cloudflare,workers,pnpm,bun,linux,neovim)](https://skillicons.dev)
-[![Tools Stack](https://skillicons.dev/icons?i=obsidian,prisma,prometheus)](https://skillicons.dev)
+[![Other Stack](https://skillicons.dev/icons?i=python,cloudflare,workers,pnpm,bun,linux,neovim)](https://skillicons.dev)
+[![Tools Stack](https://skillicons.dev/icons?i=obsidian,prometheus)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=heyjosephme&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=heyjosephme&theme=neon)
+![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heyjosephme&layout=donut-vertical)
 
 ## 🤝 Connect with Me
 
@@ -61,7 +62,7 @@ const developer = {
 
 ## 📈 Activity Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=heyjosephme&theme=github)](https://github.com/heyjosephme)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=heyjosephme&theme=themenight)](https://github.com/heyjosephme)
 
 ---
 
