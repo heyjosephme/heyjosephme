@@ -4,15 +4,14 @@
 
 ```typescript
 const developer = {
-  role: "Full-Stack/Cloud Engineer",
+  role: "Full-Stack",
   code: ["Ruby", "TypeScript"],
   currentFocus:
-    "Ruby on Rails, React.js/Remix/Next.js, React Native, CyberSecurity",
+    "Ruby on Rails, React.js, React Native, JS/TS, CyberSecurity",
   passions: [
+    "Problem Solving",
     "Clean Code",
     "Scalable Architecture",
-    "Problem Solving",
-    "DevSecOps",
   ],
   funFact:
     "I debug code like I debug life - with console.log and a lot of coffee ☕",
@@ -34,13 +33,13 @@ const developer = {
 
 #### Frontend Development
 
-[![Frontend Stack](https://skillicons.dev/icons?i=react,astro,remix,nextjs,ts,js,html,css,tailwind)](https://skillicons.dev)
+[![Frontend Stack](https://skillicons.dev/icons?i=react,astro,ts,js,html,css,tailwind)](https://skillicons.dev)
 
 #### Mobile Development
 
-<!-- [![Mobile Stack](https://skillicons.dev/icons?i=react)](https://reactnative.dev/) -->
+[![Mobile Stack](https://skillicons.dev/icons?i=react)](https://reactnative.dev/)
 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<!-- ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
 
 #### Cloud & Infrastructure
 
@@ -54,6 +53,7 @@ const developer = {
 ## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=heyjosephme&theme=neon)
+
 ![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heyjosephme&layout=donut-vertical)
 
 ## 🤝 Connect with Me
@@ -66,4 +66,4 @@ const developer = {
 
 ---
 
-⭐️ From [Joseph](https://github.com/heyjosephme)
+⭐️ From [Joseph](https://heyjoseph.me)
